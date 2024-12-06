@@ -1,7 +1,0 @@
-- 👋 Hi, I’m Abhinav Kumar Jha.
-- 👀 I’m interested in Backend and web Development.
-- 🌱 I’m currently learning DSA and Full Stack Development.
-- 💞️ I’m looking to collaborate on Open Source Projects.
-- 📫 How to reach me LinkedIn, Twitter/X.
-- 😄 Pronouns: He/Him.
-- ⚡ Fun fact: I wrote my first line of code in January , 2024.
